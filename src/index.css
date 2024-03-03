@@ -635,11 +635,11 @@ button {
   }
 
   .layout {
-    grid-template-columns: 6.5em 6em;
+    grid-template-columns: 1fr 1fr;
   }
 
   .member-container {
-    width: 9em;
+    width: 100%;
   }
 
   .member-list {
@@ -668,8 +668,9 @@ button {
   }
 
   .button-form {
-    font-size: 6px;
-    padding: 8px 8px 8px 8px;
+    font-size: 5px;
+    padding: 5px;
+    margin: 0px;
     background-color: white;
     border: none;
     border-radius: 20px;
