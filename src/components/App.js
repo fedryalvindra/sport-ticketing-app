@@ -139,6 +139,7 @@ const App = () => {
           onAddMember={handleAddMember}
         />
       )}
+      <h2 className="footer">Developed by Fedry Alvindra</h2>
     </div>
   );
 };

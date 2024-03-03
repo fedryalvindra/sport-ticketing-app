@@ -337,7 +337,13 @@ button {
   color: #ff0000;
 }
 
-@media only screen and (max-width: 1500px) {
+.footer {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 29px;
+}
+
+@media only screen and (max-width: 1200px) {
   .head {
     font-size: 2em;
   }
@@ -646,8 +652,8 @@ button {
 
   .update-form {
     border-radius: 10px;
-    width: 7em;
-    height: 11.5em;
+    width: 9em;
+    height: 15em;
     padding-top: 1px;
   }
 
@@ -662,7 +668,7 @@ button {
   }
 
   .button-form {
-    font-size: 4px;
+    font-size: 6px;
     padding: 8px 8px 8px 8px;
     background-color: white;
     border: none;
@@ -671,7 +677,7 @@ button {
 
   .update-form h3 {
     font-weight: 300;
-    font-size: 5px;
+    font-size: 8px;
     letter-spacing: 1px;
     margin-left: 10px;
   }
@@ -679,7 +685,7 @@ button {
   .update-form h4 {
     font-weight: 300;
     margin-left: 10px;
-    font-size: 3px;
+    font-size: 6px;
   }
 
   .input-qty {
@@ -945,5 +951,10 @@ button {
 
   .id {
     font-size: 6px;
+  }
+
+  .footer {
+    font-size: 8px;
+    margin-top: 24px;
   }
 }
