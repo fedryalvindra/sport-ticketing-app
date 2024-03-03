@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sport-ticketing-app/static/css/main.1f22a818.css",
+    "main.js": "/sport-ticketing-app/static/js/main.a086486e.js",
+    "static/js/453.c44fb0b7.chunk.js": "/sport-ticketing-app/static/js/453.c44fb0b7.chunk.js",
+    "static/media/LEMONMILK-Regular.otf": "/sport-ticketing-app/static/media/LEMONMILK-Regular.55fc24317b9c2b507dd8.otf",
+    "index.html": "/sport-ticketing-app/index.html",
+    "main.1f22a818.css.map": "/sport-ticketing-app/static/css/main.1f22a818.css.map",
+    "main.a086486e.js.map": "/sport-ticketing-app/static/js/main.a086486e.js.map",
+    "453.c44fb0b7.chunk.js.map": "/sport-ticketing-app/static/js/453.c44fb0b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f22a818.css",
+    "static/js/main.a086486e.js"
+  ]
+}
