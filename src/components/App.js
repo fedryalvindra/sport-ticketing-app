@@ -9,9 +9,9 @@ import MemberForm from "./MemberForm";
 const memberList = [
   {
     id: "MSB001",
-    name: "BryanWijaya",
-    email: "bryanwijaya01@gmail.com",
-    password: "bryanwij123",
+    name: "FedryAlvindra",
+    email: "fedryalvindra01@gmail.com",
+    password: "fedry123",
     ticket: 10,
   },
   {
