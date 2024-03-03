@@ -654,12 +654,12 @@ button {
   .update-form {
     border-radius: 10px;
     width: 11em;
-    height: 16em;
+    height: 100%;
   }
 
   .select-member {
     width: 11em;
-    height: 16em;
+    height: 14em;
   }
 
   .select-member h1 {
