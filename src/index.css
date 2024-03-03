@@ -653,13 +653,13 @@ button {
 
   .update-form {
     border-radius: 10px;
-    width: 9em;
-    height: 15.7em;
+    width: 11em;
+    height: 15em;
   }
 
   .select-member {
-    width: 9em;
-    height: 15.7em;
+    width: 11em;
+    height: 15em;
   }
 
   .select-member h1 {
@@ -690,7 +690,7 @@ button {
   }
 
   .input-qty {
-    margin-bottom: 3em;
+    margin-bottom: 2em;
   }
 
   .update-form .input-qty button {
@@ -775,7 +775,8 @@ button {
   }
 
   li {
-    width: 7.3.4em;
+    margin-left: 3px;
+    width: 7.5em;
     grid-template-columns: 2.2em 3em;
   }
 
